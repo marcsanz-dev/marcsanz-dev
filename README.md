@@ -12,7 +12,6 @@ Final-year **Computer Engineering** student at the **Universitat de Barcelona** 
 |---|---|---|
 | [Absolute Order](https://github.com/marcsanz-dev/Absolute-Order-Mod) | Inventory mod with per-slot filters and a priority-based slot-assignment algorithm shared by shift-click, hoppers and auto-deposit. Fabric, NeoForge & Forge, Minecraft 1.12.2–26.x. ![Modrinth downloads](https://img.shields.io/modrinth/dt/absolute-order?label=downloads&color=2b7a3b) | Java · Gradle · Architectury · Mixin |
 | [Academic scheduler](https://github.com/marcsanz-dev/Academic-scheduler-csp) | Timetable generator using constraint satisfaction with Branch & Bound and heuristic search. | Python |
-| [Algorithmic problem solving](https://github.com/marcsanz-dev/Algorithmic-Problem-Solving) | Graphs, greedy, dynamic programming (seam carving) and backtracking. | Python · Jupyter |
 | [FitApp](https://github.com/marcsanz-dev/FitApp-Clean-Architecture) | Android app built in a team with Clean Architecture + MVVM. | Java · Android |
 
 ### Tech stack
